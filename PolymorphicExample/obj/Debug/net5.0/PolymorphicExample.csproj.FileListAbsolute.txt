@@ -1,0 +1,16 @@
+C:\RepoProgExamples\PolymorphicExampleFromGitHub\PolymorphicExample\bin\Debug\net5.0\PolymorphicExample.exe
+C:\RepoProgExamples\PolymorphicExampleFromGitHub\PolymorphicExample\bin\Debug\net5.0\PolymorphicExample.deps.json
+C:\RepoProgExamples\PolymorphicExampleFromGitHub\PolymorphicExample\bin\Debug\net5.0\PolymorphicExample.runtimeconfig.json
+C:\RepoProgExamples\PolymorphicExampleFromGitHub\PolymorphicExample\bin\Debug\net5.0\PolymorphicExample.runtimeconfig.dev.json
+C:\RepoProgExamples\PolymorphicExampleFromGitHub\PolymorphicExample\bin\Debug\net5.0\PolymorphicExample.dll
+C:\RepoProgExamples\PolymorphicExampleFromGitHub\PolymorphicExample\bin\Debug\net5.0\ref\PolymorphicExample.dll
+C:\RepoProgExamples\PolymorphicExampleFromGitHub\PolymorphicExample\bin\Debug\net5.0\PolymorphicExample.pdb
+C:\RepoProgExamples\PolymorphicExampleFromGitHub\PolymorphicExample\obj\Debug\net5.0\PolymorphicExample.csproj.AssemblyReference.cache
+C:\RepoProgExamples\PolymorphicExampleFromGitHub\PolymorphicExample\obj\Debug\net5.0\PolymorphicExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\RepoProgExamples\PolymorphicExampleFromGitHub\PolymorphicExample\obj\Debug\net5.0\PolymorphicExample.AssemblyInfoInputs.cache
+C:\RepoProgExamples\PolymorphicExampleFromGitHub\PolymorphicExample\obj\Debug\net5.0\PolymorphicExample.AssemblyInfo.cs
+C:\RepoProgExamples\PolymorphicExampleFromGitHub\PolymorphicExample\obj\Debug\net5.0\PolymorphicExample.csproj.CoreCompileInputs.cache
+C:\RepoProgExamples\PolymorphicExampleFromGitHub\PolymorphicExample\obj\Debug\net5.0\PolymorphicExample.dll
+C:\RepoProgExamples\PolymorphicExampleFromGitHub\PolymorphicExample\obj\Debug\net5.0\ref\PolymorphicExample.dll
+C:\RepoProgExamples\PolymorphicExampleFromGitHub\PolymorphicExample\obj\Debug\net5.0\PolymorphicExample.pdb
+C:\RepoProgExamples\PolymorphicExampleFromGitHub\PolymorphicExample\obj\Debug\net5.0\PolymorphicExample.genruntimeconfig.cache
